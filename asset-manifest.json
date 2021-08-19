@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/linushahs/react-pagination/static/css/main.106b87fc.chunk.css",
+    "main.js": "/linushahs/react-pagination/static/js/main.32df82ed.chunk.js",
+    "main.js.map": "/linushahs/react-pagination/static/js/main.32df82ed.chunk.js.map",
+    "runtime-main.js": "/linushahs/react-pagination/static/js/runtime-main.a5ca4fc2.js",
+    "runtime-main.js.map": "/linushahs/react-pagination/static/js/runtime-main.a5ca4fc2.js.map",
+    "static/js/2.84305840.chunk.js": "/linushahs/react-pagination/static/js/2.84305840.chunk.js",
+    "static/js/2.84305840.chunk.js.map": "/linushahs/react-pagination/static/js/2.84305840.chunk.js.map",
+    "index.html": "/linushahs/react-pagination/index.html",
+    "static/css/main.106b87fc.chunk.css.map": "/linushahs/react-pagination/static/css/main.106b87fc.chunk.css.map",
+    "static/js/2.84305840.chunk.js.LICENSE.txt": "/linushahs/react-pagination/static/js/2.84305840.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5ca4fc2.js",
+    "static/js/2.84305840.chunk.js",
+    "static/css/main.106b87fc.chunk.css",
+    "static/js/main.32df82ed.chunk.js"
+  ]
+}
